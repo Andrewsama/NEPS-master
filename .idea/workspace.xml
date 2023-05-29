@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a171eed2-ff41-4152-9455-23525d265e36" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>64</find>
+      <find>g.</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\pycharm\implementation-of-Self-Paced-Network-Embedding-master</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/model_new.py" />
+        <option value="$PROJECT_DIR$/SeedNE_new-Thu-Jul-25-16-29-52-2019-log.txt" />
+        <option value="$PROJECT_DIR$/SeedNE_new-Sun-Aug--4-15-55-12-2019-log.txt" />
+        <option value="$PROJECT_DIR$/data/cut.py" />
+        <option value="$PROJECT_DIR$/data/usa-airports/usa-airports_train_features.txt" />
+        <option value="$PROJECT_DIR$/data/yeast/yeast_train_features.txt" />
+        <option value="$PROJECT_DIR$/data/adjnoun/adjnoun_train_features.txt" />
+        <option value="$PROJECT_DIR$/utils_new.py" />
+        <option value="$PROJECT_DIR$/data/test.py" />
+        <option value="$PROJECT_DIR$/seedne_new.py" />
+        <option value="$PROJECT_DIR$/link_precision.py" />
+        <option value="$PROJECT_DIR$/data/wiki/wiki_precisionK_result.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="173" />
+    <option name="y" value="51" />
+    <option name="width" value="1920" />
+    <option name="height" value="1024" />
+  </component>
+  <component name="ProjectId" id="2QSZCYbzztbxQ5xYKFjNqmHrlEa" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="implementation-of-Self-Paced-Network-Embedding-master - 副本" type="b2602c69:ProjectViewProjectNode" />
+              <item name="implementation-of-Self-Paced-Network-Embedding-master - 副本" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="implementation-of-Self-Paced-Network-Embedding-master - 副本" type="b2602c69:ProjectViewProjectNode" />
+              <item name="implementation-of-Self-Paced-Network-Embedding-master - 副本" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="implementation-of-Self-Paced-Network-Embedding-master - 副本" type="b2602c69:ProjectViewProjectNode" />
+              <item name="implementation-of-Self-Paced-Network-Embedding-master - 副本" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="CA-GrQC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="implementation-of-Self-Paced-Network-Embedding-master - 副本" type="b2602c69:ProjectViewProjectNode" />
+              <item name="implementation-of-Self-Paced-Network-Embedding-master - 副本" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="chameleon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="implementation-of-Self-Paced-Network-Embedding-master - 副本" type="b2602c69:ProjectViewProjectNode" />
+              <item name="implementation-of-Self-Paced-Network-Embedding-master - 副本" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="email-Eu-core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="implementation-of-Self-Paced-Network-Embedding-master - 副本" type="b2602c69:ProjectViewProjectNode" />
+              <item name="implementation-of-Self-Paced-Network-Embedding-master - 副本" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="usa-airports" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="implementation-of-Self-Paced-Network-Embedding-master - 副本" type="b2602c69:ProjectViewProjectNode" />
+              <item name="implementation-of-Self-Paced-Network-Embedding-master - 副本" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="wiki" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="implementation-of-Self-Paced-Network-Embedding-master - 副本" type="b2602c69:ProjectViewProjectNode" />
+              <item name="implementation-of-Self-Paced-Network-Embedding-master - 副本" type="462c0819:PsiDirectoryNode" />
+              <item name="embedding" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\pycharm\implementation-of-Self-Paced-Network-Embedding-master - 副本" />
+      <recent name="E:\pycharm\implementation-of-Self-Paced-Network-Embedding-master - 副本\data" />
+      <recent name="E:\pycharm\implementation-of-Self-Paced-Network-Embedding-master - 副本\data\adjnoun" />
+      <recent name="E:\pycharm\implementation-of-Self-Paced-Network-Embedding-master - 副本\data\yeast" />
+      <recent name="E:\pycharm\implementation-of-Self-Paced-Network-Embedding-master - 副本\data\usa-airports" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="link_precision" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="implementation-of-Self-Paced-Network-Embedding-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/link_precision.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="implementation-of-Self-Paced-Network-Embedding-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="seedne_new" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="implementation-of-Self-Paced-Network-Embedding-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seedne_new.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="implementation-of-Self-Paced-Network-Embedding-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.seedne_new" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.link_precision" />
+      <item itemvalue="Python.main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.link_precision" />
+        <item itemvalue="Python.seedne_new" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a171eed2-ff41-4152-9455-23525d265e36" name="Default Changelist" comment="" />
+      <created>1562313319141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562313319141</updated>
+      <workItem from="1685348817104" duration="771000" />
+      <workItem from="1685350313781" duration="4786000" />
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="139" y="41" width="1536" height="819" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.204" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3294686" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23360184" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3983353" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.09863281" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32911393" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13991082" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3294686" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3895954" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990338" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.09863281" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32911393" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/NEPS_master$link_precision.coverage" NAME="link_precision Coverage Results" MODIFIED="1685352101252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NEPS_master$main.coverage" NAME="main Coverage Results" MODIFIED="1685355581054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/implementation_of_Self_Paced_Network_Embedding_master___$link_precision.coverage" NAME="link_precision Coverage Results" MODIFIED="1685349616301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SeedNE_new-Sun-Sep-22-01-02-27-2019-log.txt" />
+    <entry file="file://$PROJECT_DIR$/../GraRep-master/src/config.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/europe-airports/europe-airports_edgelist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/wiki/wiki_train_edgelist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-351085" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/usa-airports/usa-airports_test_edgelist.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/usa-airports/usa-airports_train_edgelist.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cut.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/adjnoun/adjnoun_labels.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2036" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/adjnoun/adjnoun_train_edgelist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7786" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/adjnoun/adjnoun_edgelist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9385" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yeast/yeast_labels.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yeast/yeast_train_edgelist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7682">
+          <caret line="334" selection-start-line="334" selection-end-line="334" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yeast/yeast_train_features.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/adjnoun/adjnoun_train_features.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/adjnoun/adjnoun_test_edgelist.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yeast/yeast_edgelist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-164694" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/CA-GrQC/CA-GrQC_test_edgelist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-332778" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/wiki/wiki_test_edgelist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-206002">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/wiki/wiki_labels.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54823" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/wiki/Wiki_edgelist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-413071" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/wiki/wiki_train_features.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/usa-airports/usa-airports_train32_features.txt" />
+    <entry file="file://$PROJECT_DIR$/data/crocodile/crocodile_edgelist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4139947" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/chameleon/chameleon_edges.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ego-facebook/ego-facebook_edgelist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-65891" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/iui/iui_edgelist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95880" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/email-Eu-core/email-Eu-core_edgelist.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/crocodile/crocodile_labels.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4554" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CA-GrQC_train_edgelist.txt" />
+    <entry file="file://$PROJECT_DIR$/data/chameleon/chameleon_labels.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51872" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/chameleon/chameleon_edgelist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-805881">
+          <caret line="1041" selection-start-line="1041" selection-end-line="1041" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/chameleon/chameleon_train_edgelist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="18050" selection-start-line="18050" selection-end-line="18051" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/CA-GrQC/CA-GrQC_train_edgelist.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/email-Eu-core/email-Eu-core_precision_result.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/wiki/wiki_precision_result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/chameleon/chameleon_precision_result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/CA-GrQC/CA-GrQC_precision_result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/usa-airports/usa-airports_train_features.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/usa-airports/usa-airports_precision_result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/usa-airports/usa-airports_precisionK_result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-191" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/CA-GrQC/CA-GrQC_precisionK_result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/CA-GrQC/CA-GrQc_edgelist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seedne_new.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2185">
+          <caret line="110" column="47" selection-start-line="110" selection-start-column="47" selection-end-line="110" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_new.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="34" column="68" selection-start-line="34" selection-start-column="68" selection-end-line="34" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/wiki/wiki_precisionK_result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/email-Eu-core/email-Eu-core_precisionK_result.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/chameleon/chameleon_precisionK_result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/link_precision.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3129">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <element signature="e#69#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1679">
+          <caret line="97" column="14" selection-start-line="97" selection-start-column="14" selection-end-line="97" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-139" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils_new.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="78" column="16" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
