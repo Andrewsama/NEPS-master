@@ -1,6 +1,5 @@
 # NEPS
-Tensorflow implementation of Network Embedding based on High-Degree Penalty
-and Adaptive Negative Sampling
+Tensorflow implementation of 'Network Embedding based on High-Degree Penalty and Adaptive Negative Sampling'
 ## introduction
 A tensorflow implementation of NEPS, use random walk of high-degree penalty to get positive pair and adaptive negative sample to get negative pair
 ## Requirement
